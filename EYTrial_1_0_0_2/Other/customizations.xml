@@ -1,0 +1,29 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <WebResources>
+    <WebResource>
+      <WebResourceId>{9fbdc66a-ed2f-e811-8132-000d3aa1c5a0}</WebResourceId>
+      <Name>msdyusd_applicationBlue</Name>
+      <DisplayName>Trial</DisplayName>
+      <LanguageCode>1033</LanguageCode>
+      <WebResourceType>5</WebResourceType>
+      <IntroducedVersion>4.1.1.1397</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <FileName>/WebResources/msdyusd_applicationBlue9FBDC66A-ED2F-E811-8132-000D3AA1C5A0</FileName>
+    </WebResource>
+  </WebResources>
+  <CustomControls />
+  <EntityDataProviders />
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>
